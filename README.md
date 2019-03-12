@@ -1,7 +1,7 @@
 # team5_and_dime
 Team5_Repo_For_First_Class_Project
 
-# Team will present to the Jupiter Notebook file
+# Team will present to the Jupyter Notebook file
 
 # AustinTrafficPy
 
